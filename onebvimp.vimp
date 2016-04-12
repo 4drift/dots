@@ -10,7 +10,7 @@ hi CompItem[selected]		background: #333; color: #7b4e50;
 hi CompDesc					color: #777; width: 50%; font-family: "Archivo Narrow"; font-size: 12px;
 hi CompIcon:                width: 0px; min-width: 0px; max-width: 0px; max-height: 0px; min-height: 0px;
 hi CompIcon>img             width 0px; min-width: 0px; max-width: 0px;min-height: 0px; max-height: 0px;
-hi Prompt background:       url("file:///home/adrian/.vimperator/arrow.png"); width: 10px; background-position: center; background-repeat: no-repeat; padding-top: 6px; padding-right: 13px; padding-bottom: 6px;
+hi Prompt background:       url("chrome://liberator/skin/prompt.png"); width: 10px; background-position: center; background-repeat: no-repeat; padding-top: 6px; padding-right: 13px; padding-bottom: 6px;
 
 " Command/Status Line
 hi StatusLine				color: #444; background: #161616; font-family: "orp"; font-size: 9pt; min-height: 32px; padding-top: 9px; padding-right: 10px;
