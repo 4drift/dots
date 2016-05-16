@@ -209,6 +209,11 @@ hi Error           ctermfg=255
 hi Exception       ctermfg=4
 hi Operator        ctermfg=4
 hi StorageClass    ctermfg=5
+hi netrwDir        ctermfg=9
+hi netrwExe        ctermfg=13
+hi netrwSymLink    ctermfg=14
+hi netrwMakefile   ctermfg=5
+hi netrwCompress   ctermfg=2
 
 " Code-specific colors
 " ━━━━━━━━━━━━━━━━━━━━
