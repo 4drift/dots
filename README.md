@@ -5,3 +5,7 @@ Here lies what few configs I have that aren't completely unusable for anyone but
 For your convenience a picture of my vim colorscheme and term colors.
 
 ![screenshot](https://raw.githubusercontent.com/m3atatarian/dots/master/vim.png)
+
+New preview:
+
+![screenshot](https://raw.githubusercontent.com/m3atatarian/dots/master/win.png)
