@@ -1,0 +1,26 @@
+#define bg     #2f2f34
+#define fg     #999697
+
+#define blk    #2f2f34
+#define bblk   #37373c
+
+#define red    #683e3e
+#define bred   #7b4e50
+
+#define grn    #738473
+#define bgrn   #8Ba58b
+
+#define ylw    #747f5d
+#define bylw   #849B6c
+
+#define blu    #536B88
+#define bblu   #5A8698
+
+#define mag    #675D74
+#define bmag   #7E7189
+
+#define cyn    #608185
+#define bcyn   #6E9196
+
+#define wht    #837c7c
+#define bwht   #999797
