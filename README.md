@@ -12,3 +12,7 @@ New preview:
 
 Updated preview:
 ![screenshot](https://i.imgur.com/JIIWXSI.png)
+
+well... this last image looks like shit in firefox...
+
+I would use `curl -Ls https://i.imgur.com/JIIWXSI.png | imv -s none -` to view it instead.
