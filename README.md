@@ -9,3 +9,6 @@ For your convenience a picture of my vim colorscheme and term colors.
 New preview:
 
 ![screenshot](https://raw.githubusercontent.com/m3atatarian/dots/master/win.png)
+
+Updated preview:
+![screenshot](https://i.imgur.com/JIIWXSI.png)
